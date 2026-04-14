@@ -94,7 +94,7 @@ p{
         height: 80px;
     }
 
-    h1 {
+    /* h1 {
         font-size: 18px;
     }
 
@@ -104,7 +104,7 @@ p{
 
     .logo {
         width: 40px;
-    }
+    } */
 }
 
 @media (max-width: 480px) {
@@ -113,7 +113,7 @@ p{
         box-shadow: none;
     }
 
-    .profile {
+    /* .profile {
         width: 60px;
         height: 60px;
     }
@@ -132,5 +132,5 @@ p{
 
     .logo {
         width: 30px;
-    }
+    } */
 }
